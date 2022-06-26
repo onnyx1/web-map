@@ -1,0 +1,13 @@
+name: web_map
+title: web_map
+username:
+account: unnamed-foe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6491965
+bundleId: 6042851
+url: https://unnamed-foe.shinyapps.io/web_map/
+when: 1656186772.42631
+lastSyncTime: 1656186772.42631
+asMultiple: FALSE
+asStatic: FALSE
